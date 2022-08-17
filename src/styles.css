@@ -31,3 +31,6 @@ body {
 h2 {
   opacity: 0.9;
 }
+a {
+  color: gray;
+}
